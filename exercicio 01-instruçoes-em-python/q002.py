@@ -1,0 +1,6 @@
+print('Saiba quantos dias você já viveu! É só informar sua idade abaixo.')
+ano = int(input('Anos: '))
+mes = int(input('Meses: '))
+dia = int(input('Dias: '))
+tdias = dia + (mes * 30) + (ano * 365)
+print('Você já viveu {} dias!'.format(tdias))

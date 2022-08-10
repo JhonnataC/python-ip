@@ -1,0 +1,37 @@
+{
+    "12345": {
+        "cpf": "12345",
+        "nome": "Carl Johnson",
+        "email": "john@hot",
+        "telefone": "870000",
+        "endereco": "Serra Talhada"
+    },
+    "01011": {
+        "cpf": "01011",
+        "nome": "Maria",
+        "email": "maria@hotmail",
+        "telefone": "879999",
+        "endereco": "Quixaba"
+    },
+    "00000": {
+        "cpf": "00000",
+        "nome": "Claudia",
+        "email": "clau@gmail",
+        "telefone": "879898",
+        "endereco": "Quixaba"
+    },
+    "12222": {
+        "cpf": "12222",
+        "nome": "Yudi ",
+        "email": "yudi@gmail",
+        "telefone": "400289",
+        "endereco": "Afogados"
+    },
+    "12111": {
+        "cpf": "12111",
+        "nome": "Julia",
+        "email": "ju@hotmail",
+        "telefone": "874555",
+        "endereco": "Quixaba"
+    }
+}

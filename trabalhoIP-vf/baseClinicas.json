@@ -1,0 +1,27 @@
+{
+    "12345": {
+        "cnpj": "12345",
+        "nome": "Albert",
+        "endereco": "Serra Talhada"
+    },
+    "00001": {
+        "cnpj": "00001",
+        "nome": "Santa Rita",
+        "endereco": "Quixaba"
+    },
+    "11111": {
+        "cnpj": "11111",
+        "nome": "Dunder Mifflin",
+        "endereco": "Quixaba"
+    },
+    "01234": {
+        "cnpj": "01234",
+        "nome": "New Heart",
+        "endereco": "Afogados"
+    },
+    "21212": {
+        "cnpj": "21212",
+        "nome": "S\u00e3o Jos\u00e9",
+        "endereco": "Serra Talhada"
+    }
+}
